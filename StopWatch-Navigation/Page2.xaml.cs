@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace Pagination_WPF.Pages
+namespace StopWatch_Navigation
 {
     /// <summary>
     /// Interaction logic for Page2.xaml
@@ -11,5 +11,6 @@ namespace Pagination_WPF.Pages
         {
             InitializeComponent();
         }
+
     }
 }
